@@ -1,0 +1,39 @@
+# Module short name
+MODULEIDNAME       = rsscreator
+
+# Module version number
+MODULEVERSION      = 1.0-1
+
+# Module release date
+MODULEDATE         = 2003/02/14
+
+# Module long description
+MODULEDESCRIPTION  = RSS creator.
+
+# Module dependencies
+MODULEDEPENDENCIES = ampoliros[3.0.0]
+
+# Module suggestions
+MODULESUGGESTIONS  =
+
+MODULE_AUTHOR        = Aral Balkan
+
+MODULE_AUTHOR_EMAIL  = aral@aralbalkan.com
+
+MODULE_AUTHOR_SITE   = http://www.phpclasses.org/browse.html/package/559.html
+
+MODULE_SUPPORT_EMAIL = support@ampoliros.com
+
+MODULE_BUGS_EMAIL    = bugs@ampoliros.com
+
+MODULE_COPYRIGHT     = Copyright (c) 2002 Aral Balkan
+
+MODULE_LICENSE       = BSD
+
+MODULE_LICENSE_FILE  = LICENSE
+
+MODULE_MAINTAINER    = Alex Pagnoni - Solarix
+
+MODULE_MAINTAINER_EMAIL = alex@ampoliros.com
+
+MODULE_CATEGORY      = libraries
